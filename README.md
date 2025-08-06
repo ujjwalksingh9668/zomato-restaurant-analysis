@@ -2,7 +2,7 @@
 
 This repository contains an interactive Power BI dashboard that provides in-depth analysis of Zomato restaurant data. The dashboard visualizes key insights such as cuisine trends, online delivery availability, ratings, votes, and geographical distribution of restaurants — helping users make data-driven decisions in the food industry.
 
-![Dashboard Preview](./[Capture.PNG](https://github.com/ujjwalksingh9668/zomato-restaurant-analysis/blob/main/zomato-restaurant-analysis.PNG))
+![Uploading image.png…]()
 
 ---
 
