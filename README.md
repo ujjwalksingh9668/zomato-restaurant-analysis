@@ -19,7 +19,7 @@ This repository contains an interactive Power BI dashboard that provides in-dept
 
 ## 🗺️ Key Features
 
-### 📌 Country & City Insights
+### 📌 Country & City Insights 
 - View restaurant distribution across major Indian cities
 - Interactive country filter (currently focused on **India**)
 
