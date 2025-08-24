@@ -12,7 +12,7 @@ This repository contains an interactive Power BI dashboard that provides in-dept
 - **30** Cities covered  
 - **1** Country (India)  
 - **2.71** Average rating across restaurants  
-- **97K+** Customer votes  
+- **97K+** Customer votes.  
 - **262** Unique cuisines analyzed
 
 ---
